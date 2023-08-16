@@ -2,7 +2,7 @@
 
 setImmediate(() => {
   console.log('Был диван,');
-}, 10);
+});
 
 setTimeout(() => {
   console.log('Выйди вон!');
