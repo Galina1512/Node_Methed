@@ -1,0 +1,10 @@
+{
+    "name": "homework",
+    "version": "1.0.0",
+    "author": "Galina Kostina",
+    "main": "main.js",
+    "exports": {
+        "import": "./main.mjs",
+        "require": "./main.js"
+    }
+}
